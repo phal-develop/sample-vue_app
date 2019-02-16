@@ -1,0 +1,22 @@
+{
+  "name": "sample-vue_app",
+  "version": "1.0.0",
+  "description": "sample-vue_app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phal-develop/sample-vue_app.git"
+  },
+  "author": "phal",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/phal-develop/sample-vue_app/issues"
+  },
+  "homepage": "https://github.com/phal-develop/sample-vue_app#readme",
+  "dependencies": {
+    "@vue/cli": "^3.4.0"
+  }
+}
